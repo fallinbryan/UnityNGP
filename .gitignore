@@ -1,0 +1,132 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Memory Captures can be excessive in size
+[Mm]emoryCaptures/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# ==================== #
+# Visual Studio / Rider #
+# ==================== #
+.vs/
+.vscode/
+.idea/
+*.user
+*.userprefs
+*.suo
+*.sln.docstates
+
+# ============== #
+# Builds output #
+# ============== #
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Pp]ackages/
+*.apk
+*.aab
+*.unitypackage
+
+# =========== #
+# Misc files #
+# =========== #
+*.swp
+*.bak
+*.tmp
+*.temp
+*.save
+
+# =============== #
+# macOS generated #
+# =============== #
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# =============== #
+# JetBrains Rider #
+# =============== #
+.idea/
+
+# User-specific stuff:
+*.csproj.user
+*.userprefs
+*.pidb
+*.pidb.meta
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# =============== #
+# Windows Directories #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
