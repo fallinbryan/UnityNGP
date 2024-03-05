@@ -130,3 +130,7 @@ sysinfo.txt
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+
+#big files:
+*.dll
+*.exe
